@@ -1,0 +1,1 @@
+Bu projede C# ve MSSQL kullanarak bir hastane otomasyonu geliştirdim. Proje, hastane yönetim süreçlerini dijitalleştirerek hasta kayıtlarının, doktor bilgilerinin ve randevu işlemlerinin daha verimli bir şekilde yönetilmesini sağlamayı amaçlıyor.
